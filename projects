@@ -1,0 +1,51 @@
+projects:
+  - project_id: ai-orojects
+    project_quota: 20
+  - project_id: clean-pilot-402718
+    project_quota: 20
+  - project_id: fir-prj2-d3f88
+    project_quota: 20
+  - project_id: firebasea
+    project_quota: 20
+  - project_id: fourth-palisade-410722
+    project_quota: 20
+  - project_id: larrys-hacking-vm
+    project_quota: 20
+  - project_id: logging-gn573-bj547
+    project_quota: 20
+  - project_id: monitoring-101
+    project_quota: 20
+  - project_id: monitoring-dev-gn573-bj547
+    project_quota: 20
+  - project_id: monitoring-nonprod-gn573-bj547
+    project_quota: 20
+  - project_id: monitoring-prod-gn573-bj547
+    project_quota: 20
+  - project_id: mysql-1-372704
+    project_quota: 20
+  - project_id: obsidianplugin-394603
+    project_quota: 20
+  - project_id: product-documentation-2-qk
+    project_quota: 20
+  - project_id: python-logging-test-381022
+    project_quota: 20
+  - project_id: qk-pictures-c2f56
+    project_quota: 20
+  - project_id: qk-v1-draft
+    project_quota: 20
+  - project_id: qkdraft
+    project_quota: 20
+  - project_id: seenas-stuff
+    project_quota: 20
+  - project_id: serious-fabric-413415
+    project_quota: 20
+  - project_id: sys-55316638511631812412670958
+    project_quota: 20
+  - project_id: uplifted-logic-369521
+    project_quota: 20
+  - project_id: vpc-host-dev-gn573-bj547
+    project_quota: 20
+  - project_id: vpc-host-nonprod-gn573-bj547
+    project_quota: 20
+  - project_id: vpc-host-prod-gn573-bj547
+    project_quota: 20
